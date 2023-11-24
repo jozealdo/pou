@@ -29,3 +29,6 @@ main {
   top: 220px;
   left: 290px;
 }
+body{
+  border-radius: 52% 48% 50% 50% / 48% 49% 51% 52% ;
+}
